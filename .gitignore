@@ -1,0 +1,26 @@
+# C/C++ build outputs
+*.o
+*.exe
+/main
+/testAestrella
+/testBloque
+/testCamino
+/testCompuerta
+/testGestorJuego
+/testHashSet
+/testMinHeap
+/testMovimiento
+/testParser
+/testSalida
+/testSalida_san
+/testStaticData
+/testTablero
+
+# Generated Doxygen documentation
+/docs/html/
+
+# Editor and local history files
+.vscode/
+*.swp
+*~
+.Rhistory
